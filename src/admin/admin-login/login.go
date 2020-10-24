@@ -1,4 +1,4 @@
-package login
+package admin_login
 
 import (
 	"errors"
